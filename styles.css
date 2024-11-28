@@ -36,6 +36,7 @@ button {
 }
 button:hover {
     background-color: #45a049;
+    color: #333;
 }
 .info {
     margin: 20px;
